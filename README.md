@@ -14,6 +14,11 @@ GNU Fortran (Rev1, Built by MSYS2 project) 11.3.0
 > Note: 环境要求出自 "北太天元技术支持" QQ 群
 
 
+## 教程
+
+- [北太天元 bex 插件教程 - bilibili](https://space.bilibili.com/1001996404/channel/seriesdetail?sid=2517736)
+
+
 ## [LICENSE](LICENSE)
 
 > `/* SPDX-License-Identifier: MIT */`
