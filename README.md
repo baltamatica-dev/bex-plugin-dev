@@ -13,6 +13,11 @@ GNU Fortran (Rev1, Built by MSYS2 project) 11.3.0
 
 > Note: 环境要求出自 "北太天元技术支持" QQ 群
 
+### win 开发环境下载
+
+- 百度云: https://pan.baidu.com/s/1aQMd1zSkgzkFQzoaOX1cxg 
+    提取码:【x50q】
+
 
 ## 教程
 
